@@ -1,4 +1,5 @@
-fn main() {
+fn main() 
+{
     println!("Hello World!");
     for x in 0..10 {
         println!("{}", x);
@@ -6,7 +7,7 @@ fn main() {
 }
 
 #[test]
-fn should_fail() {
-
+fn should_fail() 
+{
     unimplemented!();
 }
