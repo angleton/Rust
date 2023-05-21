@@ -1,7 +1,7 @@
 fn main() 
 {
     println!("Hello World!");
-    for x in 0..10 {
+    for x in 0..3 {
         println!("{}", x);
     }
 }
