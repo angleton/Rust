@@ -1,7 +1,7 @@
 use tonic::{transport::Server, Request, Response, Status};
 
 pub mod hello {
-    tonic::include_proto!("hello.v1");
+    // tonic::include_proto!("hello.v1");
 }
 
 use hello::greeter_server::{Greeter, GreeterServer};
