@@ -1,0 +1,8 @@
+{
+  "rust-analyzer.linkedProjects": [
+    "hash-algorithms/RandomX/Cargo.toml",
+    "hash-algorithms/Scrypt/Cargo.toml",
+    "hash-algorithms/SHA256/Cargo.toml"
+  ],
+  "rust-analyzer.testExplorer": true
+}
